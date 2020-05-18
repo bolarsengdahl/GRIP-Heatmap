@@ -8,15 +8,15 @@ working_dir<- "H:/00 Prosjekter/Smerte/Kroppskartet/"
 setwd(working_dir)
 
 ##########################################################
-# Run Grip_Heatmap_funcions_2.1 
+# Run GRIP_Heatmap_funcions_2.1 
 #########################################################
 
-source("functions/Grip_Heatmap_functions_2.1.R")
+source("GRIP_Heatmap_functions_2.1.R")
 
 ##########################################################
 # Set some directories 
 #########################################################
-svg_dir<- paste(working_dir, "svg/", sep='')
+svg_dir<- paste(working_dir, "GRIP-svg/", sep='')
 grip_dir <- paste(working_dir, "data/", sep='')
 image_dir <- paste(working_dir, "image/", sep='')
 
