@@ -7,7 +7,7 @@ The function convert a data matrix into a set of given colors using a given colo
 
 Input data has a structure with body parts in one of two different levels:
 - First tier: 10 body parts
-- Second tier: 173 body parts
+- Second tier: 167 body parts among men, 168 body parts among women
 
 Examples of file structure of data input is found under data:
 - first_tier.csv
