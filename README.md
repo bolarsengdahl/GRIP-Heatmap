@@ -1,5 +1,6 @@
 # GRIP-Heatmap
 R-function to display body heat maps using data from Graphical index of pain (GRIP).
+
 Steingrímsdóttir ÓA; Engdahl B, Hansson P, Stubhaug A, Nielsen CS. The Graphical Index of Pain (GRIP): a new web-based method for high throughput screening of pain. Pain 2020 Apr 24. doi: 10.1097/j.pain.0000000000001899.
 
 The function convert a data matrix into a set of given colors using a given color palettes used to color the bodyparts of a manikin. The colored manikin is saved in svg-format and different other plot-formats.
