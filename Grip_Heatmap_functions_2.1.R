@@ -1,6 +1,6 @@
 
 ##############################################################################################################
-# Grip_Heatmap_functions ver. 2.1 
+# GRIP_Heatmap_functions ver. 2.1 
 # 27.03.2020 - Bo Engdahl, National institute of public health, Norway
 # 
 # Spesific plotFunctions: 
